@@ -1,0 +1,15 @@
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\BT.csprojAssemblyReference.cache
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\BT.csproj.CoreCompileInputs.cache
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\BT.AssemblyInfoInputs.cache
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\BT.AssemblyInfo.cs
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\BT.dll
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\BT.pdb
+C:\Users\cuongdolar\source\repos\BT\BT\BT\bin\Debug\netstandard2.0\BT.deps.json
+C:\Users\cuongdolar\source\repos\BT\BT\BT\bin\Debug\netstandard2.0\BT.dll
+C:\Users\cuongdolar\source\repos\BT\BT\BT\bin\Debug\netstandard2.0\BT.pdb
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\MH_Chao.xaml.g.cs
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\MH_TinhTong.xaml.g.cs
+C:\Users\cuongdolar\source\repos\BT\BT\BT\obj\Debug\netstandard2.0\MH_Login.xaml.g.cs
